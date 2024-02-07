@@ -1,0 +1,11 @@
+C:\Users\Pugaizhenthi\source\repos\RegionManager\RegionManager\bin\Debug\RegionManager.exe.config
+C:\Users\Pugaizhenthi\source\repos\RegionManager\RegionManager\bin\Debug\RegionManager.exe
+C:\Users\Pugaizhenthi\source\repos\RegionManager\RegionManager\bin\Debug\RegionManager.pdb
+C:\Users\Pugaizhenthi\source\repos\RegionManager\RegionManager\obj\Debug\RegionManager.Properties.Resources.resources
+C:\Users\Pugaizhenthi\source\repos\RegionManager\RegionManager\obj\Debug\RegionManager.csproj.GenerateResource.cache
+C:\Users\Pugaizhenthi\source\repos\RegionManager\RegionManager\obj\Debug\RegionManager.csproj.CoreCompileInputs.cache
+C:\Users\Pugaizhenthi\source\repos\RegionManager\RegionManager\obj\Debug\RegionManager.exe
+C:\Users\Pugaizhenthi\source\repos\RegionManager\RegionManager\obj\Debug\RegionManager.pdb
+C:\Users\Pugaizhenthi\source\repos\RegionManager\RegionManager\obj\Debug\RegionManager.Form1.resources
+C:\Users\Pugaizhenthi\source\repos\RegionManager\RegionManager\obj\Debug\RegionManager.Tools.resources
+C:\Users\Pugaizhenthi\source\repos\RegionManager\RegionManager\obj\Debug\RegionManager.csprojAssemblyReference.cache
